@@ -53,12 +53,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
   
-###  Random Dev Meme
 
-<p align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</p>
-<br>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
